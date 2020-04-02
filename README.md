@@ -1,5 +1,6 @@
 # XRInputExamples
 
+Notes from Alex Coulombe (@ibrews):
 Uses Unity3D 2019.3
 
 A few examples of Unity's XR Input System. Started with @dilmerv's original commit, added 'release' readings on his script, then decided to build a couple new scenes by adapting scripts from @fariazz and @icave_user in this Unity forum: https://forum.unity.com/threads/any-example-of-the-new-2019-1-xr-input-system.629824/

@@ -6,7 +6,6 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.XR;
-using UnityEngine.XR.InteractionSubsystems;
 using DilmerGamesLogger = DilmerGames.Core.Logger;
 
 public class XRControllerInput : MonoBehaviour
